@@ -3,8 +3,8 @@
   max-width: 1600px;
   display: block;
   align-content: center;
-  fallback: "Inter", sans-serif;
-  fallback: "Noto Serif", "Times-New-Roman", serif;
+  font-family: "Inter", sans-serif;
+  font-family: "Noto Serif", "Times-New-Roman", serif;
   font-size: 16px;
   line-height: 20px;
 }
